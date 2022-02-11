@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+    color: black;
+}
+a {
+    color: blue;
+}
+
+h2 {
+    color: gray;
+    font-style: italic;
+}
+img {
+    height: 500px;
+    width: 500px;
+}
